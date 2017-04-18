@@ -1,0 +1,1 @@
+A somewhat kludgey fix for IntegerType data in cassandra.      

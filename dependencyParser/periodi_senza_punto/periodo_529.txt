@@ -1,0 +1,1 @@
+An ugly way to work around this would be to let TBase remain a new style class  and offer an additional compiler flag to indicate that users' exception structs need to be old style classes  and generate out their explicit read and write methods so a class like Xception only inherits from Exception  which will always work in python 2  x and up     

@@ -1,0 +1,1 @@
+If were going to put a finally block in TNonblockingServers run method  we should probably at least log whatever gets thrown  I hate silent catches     

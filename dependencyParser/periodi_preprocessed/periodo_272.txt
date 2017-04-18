@@ -1,0 +1,1 @@
+This is a really ugly hack and the better longterm solution is to provide native support for collections that use generics rather than the XWorkList      

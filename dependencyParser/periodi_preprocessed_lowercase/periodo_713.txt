@@ -1,0 +1,1 @@
+in the end  the only way i could get rid of ugly arrow icons in ie8 was with divtpalettecontrols buttondisabled img   unfortunately  this latter solution is the ill have to go with in order to get a commercial product out of the door deadline is a couple of days time    

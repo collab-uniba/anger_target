@@ -1,0 +1,1 @@
+It can be worked around with JavaScript in the submission  but that's quite ugly.     

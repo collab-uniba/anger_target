@@ -1,0 +1,1 @@
+what is really annoying is that i get warnings at generated lines like these code     public override int gethashcode        int hashcode = 0       unchecked          hashcode = hashcode  397 ^value == null       

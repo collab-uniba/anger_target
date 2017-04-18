@@ -1,0 +1,1 @@
+As it stands now  thats how Im accomplishing this but its an ugly hack requiring me to locate my subclass in the orgapachejackrabbitcoresecurityauthorizationacl package in order to make use of the ACLTemplate class     

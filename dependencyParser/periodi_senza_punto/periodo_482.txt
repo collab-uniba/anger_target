@@ -1,0 +1,1 @@
+I committed fixes for annoying issues with the plugin (TUSCANY-2175) in trunk SVN revision 643158        

@@ -1,0 +1,1 @@
+My memory is sketchy  but I was having terrible problems writing a matrix of tests for SIMPLE/PLAIN/KERBEROS/TOKEN client & server interactions.     

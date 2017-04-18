@@ -1,0 +1,1 @@
+It is so annoying having to add the fix manually to each new release of tapestry Please      

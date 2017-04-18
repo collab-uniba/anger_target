@@ -1,0 +1,1 @@
+this is indeed quite annoying  since the eclipse classpath gets polluted  you can accidentially use classes from the runtime deps in the code  and you are in for surprises if you compile with maven only   

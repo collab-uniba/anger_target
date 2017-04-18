@@ -1,0 +1,1 @@
+Having the client side and server side behave differently  is kind of ugly.     

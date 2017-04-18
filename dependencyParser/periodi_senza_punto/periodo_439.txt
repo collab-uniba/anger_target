@@ -1,0 +1,1 @@
+One (nasty) workaround for your problem would be to subclass VelocityEngine  which delegates everything to Velocity        

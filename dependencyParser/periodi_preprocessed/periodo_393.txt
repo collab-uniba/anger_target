@@ -1,0 +1,1 @@
+from Simons email Hello all  Currently that method requires a string array and its kind of annoying to use because of that     

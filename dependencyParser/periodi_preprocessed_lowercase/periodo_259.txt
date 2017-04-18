@@ -1,0 +1,1 @@
+the annoying thing is when creating the jar with xmlbeans itself only way working so far i do not have full control about javac options used      

@@ -1,0 +1,1 @@
+my guess is that its dumb and explains output of git diff at toplevel of hbase checkout      

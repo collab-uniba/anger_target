@@ -1,0 +1,1 @@
+part of the problem is i made a very  very stupid mistake with regards to how the servicetrackers are opened and managed     

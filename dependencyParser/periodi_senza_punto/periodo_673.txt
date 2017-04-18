@@ -1,0 +1,1 @@
+We will not wrap code in empty try  catch blocks because  that is a terrible coding practice       

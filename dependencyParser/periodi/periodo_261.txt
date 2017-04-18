@@ -1,0 +1,1 @@
+Perhaps the thing to do is to rely on a stack-based buffer for strings up to a certain length  plus couple that with a dumb transcoder that only does ASCII characters.     

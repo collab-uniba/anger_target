@@ -1,0 +1,1 @@
+this is a stupid patch for the current issue  it will not prevent all the crashing.     

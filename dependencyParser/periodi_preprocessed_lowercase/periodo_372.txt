@@ -1,0 +1,1 @@
+its annoying that if  you have one of the testreports opened with eg vim  ant test will faill with prepare    delete deleting directory dsrcwss4j_wss108trunkbuildtestreports build failed dsrcwss4j_wss108trunkbuildxml257 unable to delete file dsrcwss4j_wss1 08trunkbuildtestreportstestwssecpackagetestsxmlswp     

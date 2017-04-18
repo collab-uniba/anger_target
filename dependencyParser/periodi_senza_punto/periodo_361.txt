@@ -1,0 +1,1 @@
+Now I have to do in base classes something like: public MyBase () {   // set the value of discriminator's field   kind = this  getClass()  getSimpleName() } I think it is really ugly :(       

@@ -1,0 +1,1 @@
+forcing people to iterate through the messages even for just one  message and insert markup is not a good solution because its an unreasonable burden      

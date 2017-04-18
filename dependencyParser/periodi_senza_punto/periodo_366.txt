@@ -1,0 +1,1 @@
+(*) In some places  the code was doing    System  err  printlng(exception) which I modified to   exception  printStackTrace(System  err) because the original code does not print out the whole stack trace  and it's really annoying when I get a message on the console that doesn't tell me where in the code it happened       

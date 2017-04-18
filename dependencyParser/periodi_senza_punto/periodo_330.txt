@@ -1,0 +1,1 @@
+Part of the problem is I made a very  very stupid mistake with regards to how the ServiceTrackers are opened and managed       

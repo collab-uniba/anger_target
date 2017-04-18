@@ -1,0 +1,1 @@
+BTW: This is one reason why I hate this autoboxing shit since Java 5. I would love to have a way to prevent it in code (forbidden checks should detect this somehow).      

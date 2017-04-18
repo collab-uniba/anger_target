@@ -1,0 +1,1 @@
+This patch is required for correct operation it is unacceptable to have to patch either the Struts library [in some corporate environments this is not permissible] or include a statement setting the value of Globals.XHTML_KEY to 'true' as the first line of each tile [which is an ugly workaround for the framework bug].      

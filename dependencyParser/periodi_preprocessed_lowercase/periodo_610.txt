@@ -1,0 +1,1 @@
+same issue on ubuntu 1110 autoconf gnu autoconf 268 automake gnu automake 1111 gcc ubuntulinaro 4619ubuntu3 461 adding dhave_inttypes_h to my makefile helps  but its ugly     

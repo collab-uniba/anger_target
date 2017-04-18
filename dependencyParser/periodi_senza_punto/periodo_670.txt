@@ -1,0 +1,1 @@
+Its super ugly that you have to parse exception message to get exception data member fields       but thats not your fault        

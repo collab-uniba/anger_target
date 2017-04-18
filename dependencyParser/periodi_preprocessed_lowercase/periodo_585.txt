@@ -1,0 +1,1 @@
+ive had terrible luck with the eclipse source formatter  with usually several lines in a source file not being split to =80 or having weird line splitting no matter what options i set     

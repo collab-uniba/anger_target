@@ -1,0 +1,1 @@
+i think calling getcharrefcount  faposref    gaposref directly is not that much typing     macros are the spawn of the devil i hate them    

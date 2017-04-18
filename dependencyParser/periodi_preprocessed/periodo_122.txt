@@ -1,0 +1,1 @@
+bq this is solrs fault by having a getter that does some heavy duty xml shit      

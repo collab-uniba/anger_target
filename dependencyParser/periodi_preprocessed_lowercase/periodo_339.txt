@@ -1,0 +1,1 @@
+i mean  this is simply stupid animal a = new dog  cat c =  cat  a  now c is magically set to null it is difficult to change the scenario where get leads to the entity being loaded from the database such that it throws a cce     

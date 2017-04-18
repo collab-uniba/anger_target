@@ -1,0 +1,1 @@
+Jonathan  you have stumbled on an old ugly problem in Thrift       

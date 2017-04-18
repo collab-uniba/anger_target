@@ -1,0 +1,1 @@
+That is very ugly since I had to hardcode the event link in order to make it send the event to the Select object because it has the necessary code to inject any input tag to its containing form in the onChange method or otherwise Id get the component must be enclosed by a Form component error      

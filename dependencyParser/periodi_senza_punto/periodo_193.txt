@@ -1,0 +1,1 @@
+yeah well  it still seems pretty damn stupid to me obviously '%2 doesnt have any negative values if i am testing for something that is odd it is natural to test if '%2==1 not if '%2=0  in fact it made me stare at it for a while            

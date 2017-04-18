@@ -1,0 +1,1 @@
+still this guessing that hibernate does here strikes me as ugly  and i will from here on specify by defining the hibernateconnectionprovider_class property whether its required or not      

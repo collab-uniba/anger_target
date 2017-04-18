@@ -1,0 +1,1 @@
+just a quick and petty comment   public static final string new_searcher = newsrchr   public static final string first_searcher = frstsrchr no need to abbreviate so obtusely      

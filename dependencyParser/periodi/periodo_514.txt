@@ -1,0 +1,1 @@
+You can get an idea of how ugly it was to > > implement this just by scanning the patch quoted below.      

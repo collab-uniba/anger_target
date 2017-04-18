@@ -1,0 +1,1 @@
+I agree the #ifdefs are ugly and I wish they could be avoided      

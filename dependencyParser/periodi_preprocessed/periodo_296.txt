@@ -1,0 +1,1 @@
+I have seen many situations in which new JPA 20 style derived identities cause horrible mapping exceptions  essentially making the underlying ORM useless with these mappings     

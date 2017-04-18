@@ -1,0 +1,1 @@
+We removed support for stupid GZIP compression support in stored fields in 3  0        

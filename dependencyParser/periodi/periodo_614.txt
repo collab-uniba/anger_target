@@ -1,0 +1,1 @@
+Sorry for the naiveness  I didn't know that Hudson was triggered by the 'Patch Available' status... skipped an important section in the wiki page  shame on me!    

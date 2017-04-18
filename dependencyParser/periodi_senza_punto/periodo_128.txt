@@ -1,0 +1,1 @@
+Sun RI sucks  why the hell is saveState() and restoreState() not called with with javax  faces  STATE_SAVING_METHOD = server???     

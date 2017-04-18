@@ -1,0 +1,1 @@
+Damn  I would close this out from the fix to JBSEAM-3742  except the quartz and seampay examples use a custom XML namespace and the XML schema validator is not happy with that      

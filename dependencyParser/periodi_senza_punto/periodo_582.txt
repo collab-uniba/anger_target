@@ -1,0 +1,1 @@
+BTW  the 'new' MultipleFormSupport is an ugly copy-paste of 'FormSupportImpl' mostly due to  the fact that _cycle is private in FormSupportImpl Making it protected saves more that 750 lines       the other solution is for the subclass to also keep a copy of that field  when it's passed in the contructor - still ugly    

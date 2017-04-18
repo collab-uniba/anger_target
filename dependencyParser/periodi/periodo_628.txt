@@ -1,0 +1,1 @@
+Shame on me - lack of a nice formatter  I made an error with getting the month: Date.getMonth() returns 0 to 11  not 1 to 12.    

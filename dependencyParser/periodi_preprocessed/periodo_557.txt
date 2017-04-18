@@ -1,0 +1,1 @@
+I was being dumb and calling getClass on the key when it came back from the map and as it was the Class object itself that meant it returned javalangClass from the bootstrap loader      

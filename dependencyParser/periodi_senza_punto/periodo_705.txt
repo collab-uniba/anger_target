@@ -1,0 +1,1 @@
+I made a terrible mistake a couple of days back and have copied the wrong Synapse 1  1  1 JARs into the http://people  apache  org/repo/m2-ibiblio-rsync-repository repo  which got synced into the Central Repository       

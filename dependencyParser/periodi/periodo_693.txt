@@ -1,0 +1,1 @@
+I have a few comments/questions: * Parsing the MapReduce job name out of the DFSClient name is kind of an ugly hack.      

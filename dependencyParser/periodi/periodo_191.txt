@@ -1,0 +1,1 @@
+who the fuck is asking for scores  but not the max score  and why does their insanely specialized use case justify all these booleans on a central lucene class.     

@@ -1,0 +1,1 @@
+Same issue on ubuntu 11.10: autoconf (GNU Autoconf) 2.68 automake (GNU automake) 1.11.1 gcc (Ubuntu/Linaro 4.6.1-9ubuntu3) 4.6.1 Adding -DHAVE_INTTYPES_H to my Makefile helps  but it's ugly.     

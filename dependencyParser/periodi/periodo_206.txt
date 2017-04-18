@@ -1,0 +1,1 @@
+Workaround that's approachable:     @Inject     @Path( '${tapestry.scriptaculous}/prototype.js' )     private Asset _prototypeJs  boolean beginRender( MarkupWriter writer ) throws Exception {     'tDocument d = writer.getDocument()     'tElement head = d.find('html/head')     't      'thead.element( 'script'  'src'  _prototypeJs.toClientURL() ) But that somehow is ugly.    

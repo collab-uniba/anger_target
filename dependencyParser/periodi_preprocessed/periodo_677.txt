@@ -1,0 +1,1 @@
+My memory is sketchy  but I was having terrible problems writing a matrix of tests for SIMPLEPLAINKERBEROSTOKEN client & server interactions     

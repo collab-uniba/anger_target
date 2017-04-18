@@ -1,0 +1,1 @@
+tika-config  xml is horrible to us  it would be good to pass a META-INF like list to the AutoDetectParser (I implemented that for another non-solr project we use at PANGAEA  where i used the META-INF list of Tika  deleted all unused parsers and passed them somehow to TIKA)     

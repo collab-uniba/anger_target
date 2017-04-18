@@ -1,0 +1,1 @@
+and finnaly the code listed above is ugly  because the code does nothing  in all cases returns getapplicationgetsessionsettingsgetpagefactory       

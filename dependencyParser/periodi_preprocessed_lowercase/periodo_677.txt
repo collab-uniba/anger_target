@@ -1,0 +1,1 @@
+my memory is sketchy  but i was having terrible problems writing a matrix of tests for simpleplainkerberostoken client & server interactions     

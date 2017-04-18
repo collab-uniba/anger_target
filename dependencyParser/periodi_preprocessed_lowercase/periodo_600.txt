@@ -1,0 +1,1 @@
+if were going to put a finally block in tnonblockingservers run method  we should probably at least log whatever gets thrown  i hate silent catches     

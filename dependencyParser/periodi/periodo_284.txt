@@ -1,0 +1,1 @@
+So yes  using the XMLEntityResolver works better  turning this solution from an awkward hack to a merely annoying workaround.    

@@ -1,0 +1,1 @@
+Sorry my last comment was stupid  as 18 of 8TB is still larger as IntegerMAX_VALUE I was thinking of LongMAX_VALUE     

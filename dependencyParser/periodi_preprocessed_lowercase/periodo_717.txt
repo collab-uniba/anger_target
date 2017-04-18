@@ -1,0 +1,1 @@
+do you think there is way doing without that ugly httpmethodbase cast      

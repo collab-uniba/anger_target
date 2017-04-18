@@ -1,0 +1,1 @@
+quote 1 for adding a dependency to CDI  quote     I find it a bit annoying as a user when I define a provider in the XML descriptor but I also have to use a qualifier in my injection points      

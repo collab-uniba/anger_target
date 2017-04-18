@@ -1,0 +1,1 @@
+It is extremely annoying to open a bug only to have it  immediately marked 'resolved:wontfix' just because there is a work around.      

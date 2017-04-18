@@ -1,0 +1,1 @@
+i would argue that this duplicates the xalanj2461  which is about the same thing but older and more generic its not really about spaces only  but a dumb implementation which ignores required deescaping    

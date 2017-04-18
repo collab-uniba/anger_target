@@ -1,0 +1,1 @@
+It really sucks that there is now way currently to include transitive dependencies        

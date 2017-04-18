@@ -1,0 +1,1 @@
+my only possible issue with that is setting up a new one the first time sling starts up would be annoying unless there is some way to push things into the repo on startup      

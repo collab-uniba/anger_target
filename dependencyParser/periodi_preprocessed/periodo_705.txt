@@ -1,0 +1,1 @@
+I made a terrible mistake a couple of days back and have copied the wrong Synapse 111 JARs into the httppeopleapacheorgrepom2ibibliorsyncrepository repo  which got synced into the Central Repository     

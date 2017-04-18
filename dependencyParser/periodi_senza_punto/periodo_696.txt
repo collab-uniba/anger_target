@@ -1,0 +1,1 @@
+And the annoying thing is that to support catalog/name lookups  either need two properties or an unreleased version of chain which has a syntax for splitting a single string ('catalog:command')       

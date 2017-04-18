@@ -1,0 +1,1 @@
+I tried several incarnations of reproducing this but I'm apparently doing something stupid because I can't seem to get to the same state where it was breaking in my local dev environment.      

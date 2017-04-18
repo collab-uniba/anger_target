@@ -1,0 +1,1 @@
+i cant stand not having syntaxerror highlighting in my ide  always having to regenerate the jj file with ant javacc only to find i made a stupid typo      

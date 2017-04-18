@@ -1,0 +1,1 @@
+tikaconfigxml is horrible to us  it would be good to pass a METAINF like list to the AutoDetectParser I implemented that for another nonsolr project we use at PANGAEA  where i used the METAINF list of Tika  deleted all unused parsers and passed them somehow to TIKA   

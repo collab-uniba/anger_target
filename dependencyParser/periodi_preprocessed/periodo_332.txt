@@ -1,0 +1,1 @@
+This bug is really annoying Whe running WebSphere 61 and 70 and we also had to remove those classes      

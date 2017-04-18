@@ -1,0 +1,1 @@
+btw  the new multipleformsupport is an ugly copypaste of formsupportimpl mostly due to  the fact that _cycle is private in formsupportimpl making it protected saves more that 750 lines the other solution is for the subclass to also keep a copy of that field  when its passed in the contructor  still ugly    

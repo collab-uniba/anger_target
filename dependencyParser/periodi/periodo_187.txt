@@ -1,0 +1,1 @@
+So  Java sucks when it comes to file perms... even if we unzip or untgz these files  they will *NOT* have the correct permissions.     

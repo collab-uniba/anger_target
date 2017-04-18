@@ -1,0 +1,1 @@
+i dont have to ensure that the classloader knows groovy classes  you must do that     

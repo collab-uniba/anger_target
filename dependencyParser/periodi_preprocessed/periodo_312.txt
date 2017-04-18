@@ -1,0 +1,1 @@
+In xercesbugxsd I hate this file name    you have  attributeFormDefault=unqualified which means local attribute declarations in this schema document dont have a  target namespace     

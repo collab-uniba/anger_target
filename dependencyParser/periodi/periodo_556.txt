@@ -1,0 +1,1 @@
+Here is one way to fix this annoying issue: http://bitbucket.org/jespern/django-piston/issue/22/      

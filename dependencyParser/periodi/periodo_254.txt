@@ -1,0 +1,1 @@
+And as for 'changing it just in Maven'  sorry but thats a stupid idea.     

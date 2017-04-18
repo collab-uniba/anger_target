@@ -1,0 +1,1 @@
+I hate to have to implement workarounds for broken app servers  but agree that it is useful for Sling to be resilient again such problems.     

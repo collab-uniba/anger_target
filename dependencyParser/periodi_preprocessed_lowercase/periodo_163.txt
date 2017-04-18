@@ -1,0 +1,1 @@
+ synchronous requests are evil and they lock the browser      

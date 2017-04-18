@@ -1,0 +1,1 @@
+im having a terrible time trying to run the tests in the provided testing structure of gora antmaven therefore im running the tests completely isolated      

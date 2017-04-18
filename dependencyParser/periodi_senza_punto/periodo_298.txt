@@ -1,0 +1,1 @@
+If the implementation of the interface has no choice but enumerating each applications and then check  the filter is worthless of being pushed back       

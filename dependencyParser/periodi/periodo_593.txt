@@ -1,0 +1,1 @@
+If you just use Embed-Dependency then you're telling BND to add the contents of the jar (or the jar itself) but don't say which packages should be made public so you can leave out exportcontents  but then you won't be exporting any packages (this is ok if you're not expecting other bundles to use the packages) > Also <_failok> is ugly.     

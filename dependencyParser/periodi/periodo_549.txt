@@ -1,0 +1,1 @@
+Takes some ugly code for this to be triggered ... an object's toString() must return null  which is generally a no-no.     

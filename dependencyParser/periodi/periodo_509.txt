@@ -1,0 +1,1 @@
+I could certainly subclass RequestProcessor  but considering the multitude of  issues surrounding subclassing RequestProcessor already  I hate to do so for  such a simple little thing as more logging.    

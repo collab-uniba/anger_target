@@ -1,0 +1,1 @@
+its annoying that java doesnt have a null object as such  perhaps when we detect a null  we can wrapp it with a nullfield or something     

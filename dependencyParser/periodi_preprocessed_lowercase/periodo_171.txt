@@ -1,0 +1,1 @@
+i think java 7 closewithresources is stupid too      

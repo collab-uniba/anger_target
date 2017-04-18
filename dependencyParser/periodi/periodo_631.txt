@@ -1,0 +1,1 @@
+I'm developing my own application over 1 year in tapestry 5 with extensive use of javascript and it  drives me really mad to re-implement  parts of my javascripts each time when tapestry updates from 5.1.0.x to 5.1.0.x+1.      

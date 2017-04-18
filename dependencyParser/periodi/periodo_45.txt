@@ -1,0 +1,1 @@
+I didn't know we needed to retain backwards config capability across 3.x to 4.x  :-(  That sucks and it'll make old code stick around longer.      

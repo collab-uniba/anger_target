@@ -1,0 +1,1 @@
+the annoying side effect for providing your own connection is the on_close warnings it gives when the session is closed      

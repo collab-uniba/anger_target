@@ -1,0 +1,1 @@
+In other words  having all checkboxes 'off' by default sound like a pretty dumb solution       

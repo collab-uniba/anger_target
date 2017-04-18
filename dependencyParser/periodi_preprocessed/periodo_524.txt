@@ -1,0 +1,1 @@
+I hate to have to implement this by scanning every string for bad characters prior to serialization  that just seems so wasteful     

@@ -1,0 +1,1 @@
+now i have to do in base classes something like public mybase      set the value of discriminators field   kind = thisgetclassgetsimplename  i think it is really ugly        

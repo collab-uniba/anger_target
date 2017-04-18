@@ -1,0 +1,1 @@
+ authorizeRequest  launchContextgetUserequalstokenIdgetApplicationSubmitter  this is now a worthless check      

@@ -1,0 +1,1 @@
+The screaming read performance of Hibernate Search is offset by horrible write performance as an update to a branch in a Document cascades back to a full root object initialization as the entire Document has to be recreated from scratch        

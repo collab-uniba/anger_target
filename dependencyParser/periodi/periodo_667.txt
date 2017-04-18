@@ -1,0 +1,1 @@
+Please also try to login with other user than admin (for example user1 / password) since plain users  differently from admin  have a link to edit their own profile: the result is quite ugly ATM.    

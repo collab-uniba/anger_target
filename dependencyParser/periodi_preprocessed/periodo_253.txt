@@ -1,0 +1,1 @@
+Well  in my case  I now use an ugly workaround splitting the string  adding as a must and catching the errors when I encounter a stopword term in a number of places   

@@ -1,0 +1,1 @@
+I was a big fan of Hungarian notation in C when I was using dumb text editors  it doesnt add enough value in an OO language with modern tools to make up for the fact that my eye stutters over it every time I see it      

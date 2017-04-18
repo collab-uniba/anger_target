@@ -1,0 +1,1 @@
+OMG....I kept ignoring the little voice in my head that kept telling me to go look at the portlet code because I rememered reading something about being able to render different response types to different portions of a page.      

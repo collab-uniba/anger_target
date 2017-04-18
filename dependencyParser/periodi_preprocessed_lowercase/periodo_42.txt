@@ -1,0 +1,1 @@
+crap  forgot to verify that this is inconsistant with mri  its not    

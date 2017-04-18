@@ -1,0 +1,1 @@
+As an end-user of Xalan  it is very annoying and user-unfriendly to require a Java program to be written to support features that are based on an XML standard atleast three years old       

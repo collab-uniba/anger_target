@@ -1,0 +1,1 @@
+I just want to use  for example  XPathAPI (doc  '//SMARTDOC/SIGNATURES/Signature/SignedInfo/CanonicalizationMethod/@Algori thm') instead of ((((Element(getElementsBy(item(0)))      firstChild    ugly         

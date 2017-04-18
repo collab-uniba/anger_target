@@ -1,0 +1,1 @@
+= i find it a bit annoying as a user when i define a provider in the xml descriptor but i also have to use a qualifier in my injection points      

@@ -1,0 +1,1 @@
+Also  note that its annoying though still totally feasible to pass pointers to POD and string literals in Go     

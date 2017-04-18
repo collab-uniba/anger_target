@@ -1,0 +1,1 @@
+@idiot Yeah  I was on that idiot-path for a good while but commons-lang is a hairball  at least where this hashcode making and equals is concerned      

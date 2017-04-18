@@ -1,0 +1,1 @@
+I've been adding logging output to see what's going on in  getting some ugly results: 09:03:05 483 INFO  [TapestryFilter] Startup time: 137 ms to build IoC Registry  359 ms overall     

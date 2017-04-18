@@ -1,0 +1,1 @@
+At the moment the 2nd fix is active  because the 1st one causes ugly flickering        

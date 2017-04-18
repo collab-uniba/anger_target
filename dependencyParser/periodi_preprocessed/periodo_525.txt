@@ -1,0 +1,1 @@
+Specifying pages starting with WEBINF is IMO ugly      

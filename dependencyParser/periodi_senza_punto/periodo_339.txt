@@ -1,0 +1,1 @@
+I mean  this is simply stupid: Animal a = new Dog()  Cat c = ( Cat ) a // now c is magically set to null It is difficult to change the scenario where get() leads to the entity being loaded from the database such that it throws a CCE       

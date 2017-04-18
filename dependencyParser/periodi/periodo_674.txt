@@ -1,0 +1,1 @@
+After some more investigation  I found a stupid bug in our system that was deliberately throwing away the original email from the reply.     

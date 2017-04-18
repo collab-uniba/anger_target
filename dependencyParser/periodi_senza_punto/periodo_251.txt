@@ -1,0 +1,1 @@
+This is quite an annoyance  as I want server-side switching and statefulness  but in looks horrible in IE      

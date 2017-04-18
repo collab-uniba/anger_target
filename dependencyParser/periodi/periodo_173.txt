@@ -1,0 +1,1 @@
+If someone changes their similarity to use a different norm type at index-time than at query-time  then he or she is an idiot!     

@@ -1,0 +1,1 @@
+Time zones are almost as ugly to work with as character sets        

@@ -1,0 +1,1 @@
+The annoying thing is that you cannot necessarily predict how many concurrent DB connection you will need        

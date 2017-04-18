@@ -1,0 +1,1 @@
+It seems that we have no choice but to implement it as Bryant suggested  but I really really really hate that we have to have special handling for a weird requirement of the SRV spec.     

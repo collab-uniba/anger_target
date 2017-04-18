@@ -1,0 +1,1 @@
+I would argue that this duplicates the XALANJ-2461  which is about the same thing but older and more generic (it's not really about spaces only  but a dumb implementation which ignores required de-escaping)      

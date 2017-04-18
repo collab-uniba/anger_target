@@ -1,0 +1,1 @@
+If you add this stupid servlet mapping     servletmapping       servletnametilesservletname       urlpatternblahblahurlpattern     servletmapping it seems to work      

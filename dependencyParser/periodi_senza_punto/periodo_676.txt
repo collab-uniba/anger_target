@@ -1,0 +1,1 @@
+That stupid m2eclipse was using a snapshot from december instead of updating it to the most recent and I had workspace resolution turned off        

@@ -1,0 +1,1 @@
+However  an ugly exception was logged in the aggregate client's logfile: {code} Hopefully there is some way to tell the spring listener not to do this.     

@@ -1,0 +1,1 @@
+Seems like that this browser bug in IE is still not fixed even in IE7  I hate those MS guys httpsupportmicrosoftcomdefaultaspxscid=kbenus276228 This causes the problem because the SELECT boxes are updated via innerHTML       

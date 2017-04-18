@@ -1,0 +1,1 @@
+This is indeed a annoying bug  Ive replicated it locally in a test case     

@@ -1,0 +1,1 @@
+The problem here  is that dict are mutable as well  they are unhashable: >>> d1 = dict(a=1) >>> set([d1]) Traceback (most recent call last):   File '<stdin>'  line 1  in <module> TypeError: dict objects are unhashable So  the only workaround is to use a tuple (as they're immutable) holding two integers to represent uuids  but it's kinda ugly.

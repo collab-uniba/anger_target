@@ -1,0 +1,1 @@
+the annoying xslkey bug is still present in the current xalanj subversion trunk version      

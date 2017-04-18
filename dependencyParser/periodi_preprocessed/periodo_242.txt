@@ -1,0 +1,1 @@
+Hacking ResourceStreamerImpl to use SystemcurrentTimeMillis when lastModified == 0  and a suitable change in AssetDispatcherjava to send not modified even when lastmodified == 0 is an ugly workaround but appears to solve the issue     

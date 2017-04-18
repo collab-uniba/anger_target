@@ -1,0 +1,1 @@
+That simple change would require translation of all resource bundles  or leave the ugly line in the original resource bundle: Framework has been stopped.=The OSGi framework has been stopped.     

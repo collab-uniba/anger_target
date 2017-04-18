@@ -1,0 +1,1 @@
+   httpbugssuncombugdatabaseview_bugdobug_id=4283544 In order to bypass that  some ugly setAccessibletrue will be needed     

@@ -1,0 +1,1 @@
+They do have lots of great solvers  but I've been seeing a disturbing number of bugs fixed on their SVD implementation lately (I mean  fixing bugs is great  but having them in there means we don't know how many more there are)  and the impls there are translated from fortran  and the code is very dense and hard for me to debug if I see a bug pop up  personally.

@@ -1,0 +1,1 @@
+interesting i didnt look at pmd although that is more down to my personal dislike of code lint tools that do source code analysis shrugs it was a fun distraction anyhow      

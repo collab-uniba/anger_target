@@ -1,0 +1,1 @@
+more annoying  it seems to ignore @transient annotation since the following method causes the problem  @transient public setinteger getterminalids     return null          

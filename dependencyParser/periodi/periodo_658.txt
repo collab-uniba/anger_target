@@ -1,0 +1,1 @@
+My ant-foo is too weak for me to be sure I didn't set up some kind of horrible circular dependency that hasn't hit me.      

@@ -1,0 +1,1 @@
+:(   http://bugs.sun.com/bugdatabase/view_bug.do?bug_id=4283544 In order to bypass that  some ugly setAccessible(true) will be needed.     

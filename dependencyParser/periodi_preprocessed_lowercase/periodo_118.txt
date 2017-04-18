@@ -1,0 +1,1 @@
+if so  a test that succeeds with errors is confusing as hell     

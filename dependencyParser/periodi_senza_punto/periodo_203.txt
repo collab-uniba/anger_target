@@ -1,0 +1,1 @@
+So  as much as I hate to do it  we can add a config yarn  client  static-nmtokens-cache that is set to true by default      

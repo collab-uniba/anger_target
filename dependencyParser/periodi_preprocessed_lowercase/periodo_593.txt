@@ -1,0 +1,1 @@
+if you just use embeddependency then youre telling bnd to add the contents of the jar or the jar itself but dont say which packages should be made public so you can leave out exportcontents  but then you wont be exporting any packages this is ok if youre not expecting other bundles to use the packages  also _failok is ugly     

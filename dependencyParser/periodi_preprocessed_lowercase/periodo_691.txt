@@ -1,0 +1,1 @@
+and  the resulting projectpom would contain some ugly folder structure and listings of calls for different versions     

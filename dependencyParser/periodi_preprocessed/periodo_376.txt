@@ -1,0 +1,1 @@
+If its about incrementing a counter  of course  that would be dumb Makes me think that most of the SimpleDateFormat instances should also be stored in ThreadLocal    

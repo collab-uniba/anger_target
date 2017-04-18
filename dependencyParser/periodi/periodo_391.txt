@@ -1,0 +1,1 @@
+If you add this stupid servlet mapping:     <servlet-mapping>       <servlet-name>tiles</servlet-name>       <url-pattern>/*blahblah</url-pattern>     </servlet-mapping> it seems to work.      

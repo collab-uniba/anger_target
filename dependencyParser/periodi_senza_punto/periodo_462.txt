@@ -1,0 +1,1 @@
+(4) Now that I'm using Thrift in anger  I find that the fidelity of the language-binding for the types that already exist  seems far  far  more important than adding new types    

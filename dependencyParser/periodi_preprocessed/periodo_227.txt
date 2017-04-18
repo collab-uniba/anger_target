@@ -1,0 +1,1 @@
+However  DB2390Dialect and DB2400Dialect are now identical  which is kinda ugly    

@@ -1,0 +1,1 @@
+ive been adding logging output to see whats going on in  getting some ugly results 090305 483 info  tapestryfilter startup time 137 ms to build ioc registry  359 ms overall   

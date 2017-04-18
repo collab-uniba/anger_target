@@ -1,0 +1,1 @@
+@Felix: I think I removed the 'Stacktrace:' strings because they looked 'ugly' in the output and it was somewhat obvious that these are stacktraces or the word stacktrace was duplicated in the end.      

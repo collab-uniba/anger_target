@@ -1,0 +1,1 @@
+The Java 5 thing is annoying  I've heard some noise that forrest is working towards a release 'rsn'  as part of which the java 5 requirement would be dropped.    

@@ -1,0 +1,1 @@
+/me dumb  it's my own debug that NPEs.     

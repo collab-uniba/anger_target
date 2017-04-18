@@ -1,0 +1,1 @@
+I have stupidly deleted the original test dir  but judging from the suite's output files  no output was created after 3 1/2 hours      

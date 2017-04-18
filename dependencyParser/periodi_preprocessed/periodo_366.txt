@@ -1,0 +1,1 @@
+ In some places  the code was doing    Systemerrprintlngexception which I modified to   exceptionprintStackTraceSystemerr because the original code does not print out the whole stack trace  and its really annoying when I get a message on the console that doesnt tell me where in the code it happened     

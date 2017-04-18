@@ -1,0 +1,1 @@
+tr class=roweventbodytable this is really annoying because i use a lot of javascript inside the datatables and now i get script errors and my pages are not submitable      

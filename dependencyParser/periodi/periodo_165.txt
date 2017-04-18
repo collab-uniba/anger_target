@@ -1,0 +1,1 @@
+Another case where Windows' default encoding is mucking us up  I'm sure.     

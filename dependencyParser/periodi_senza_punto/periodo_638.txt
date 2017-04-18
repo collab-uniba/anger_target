@@ -1,0 +1,1 @@
+Here's some information about this process: https://cwiki  apache  org/UIMA/building-eclipse-plugins-with-maven-bundle-plugin-and-friends  html I also think that this process is quite annoying  because everytime m2e gets the idea of building the uimaj-ep-textmarker-engine or the uimaj-ep-runtime project  it breaks both jars (since the unpack-dependencies is deativated)      

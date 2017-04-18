@@ -1,0 +1,1 @@
+Removing the ability to request multiple containers would be an annoying regression for a large class of applications that merely want a non-locality-constrained bunch of processes on the cluster        

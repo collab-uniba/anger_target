@@ -1,0 +1,1 @@
+the drop shadow isnt possible without some ugly css hacks  unless you add another text node behind the one you want to shadow     

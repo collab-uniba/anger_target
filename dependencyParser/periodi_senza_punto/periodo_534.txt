@@ -1,0 +1,1 @@
+At the moment validator doesn't validate an input field with multiple values (quite annoying sometimes)        

@@ -1,0 +1,1 @@
+ funny how many users are so willing to complain about hibernate not properly handling faulty jdbc drivers       

@@ -1,0 +1,1 @@
+it is really annoying  since this actually prevents you from checking for valid paths in your code  since itemexists is often called first    

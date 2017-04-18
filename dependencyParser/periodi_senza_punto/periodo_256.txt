@@ -1,0 +1,1 @@
+This is a pretty ugly problem - if you want your XML to be pretty-printed  then  your text content will get mangled       

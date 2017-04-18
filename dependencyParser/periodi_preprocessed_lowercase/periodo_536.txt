@@ -1,0 +1,1 @@
+removes the dumb serveraddresstoserverinfo from servermanager      

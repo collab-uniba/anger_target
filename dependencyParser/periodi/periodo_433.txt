@@ -1,0 +1,1 @@
+I think the file upload docs should point out this nasty  nasty side effect.     

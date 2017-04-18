@@ -1,0 +1,1 @@
+I gave up with Hibernate and switched to OpenJPA      

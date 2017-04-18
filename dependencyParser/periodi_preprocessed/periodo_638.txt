@@ -1,0 +1,1 @@
+Heres some information about this process httpscwikiapacheorgUIMAbuildingeclipsepluginswithmavenbundlepluginandfriendshtml I also think that this process is quite annoying  because everytime m2e gets the idea of building the uimajeptextmarkerengine or the uimajepruntime project  it breaks both jars since the unpackdependencies is deativated    

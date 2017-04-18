@@ -1,0 +1,1 @@
+michael  i guess junit from my eclipse = junit from ant  because it passes in eclipse      annoying I will fix the test so it runs correctly from ant      

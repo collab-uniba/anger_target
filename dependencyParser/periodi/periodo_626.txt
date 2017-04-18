@@ -1,0 +1,1 @@
+What's annoying is that the main complaint is that the artifact can't be found  even though the POM contains the repository reference: <repositories> <repository> <id>maven-play-plugin</id> <name>Maven Play Plugin</name> <url> http://maven-play-plugin.googlecode.com/svn/mavenrepo/releases </url> </repository> </repositories>      

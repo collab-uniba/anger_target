@@ -1,0 +1,1 @@
+I think calling getCharRef(count  fAposRef   > gAposRef) directly is not that much typing :-)    Macros are the spawn of the devil: I hate them.    

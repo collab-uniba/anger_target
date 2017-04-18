@@ -1,0 +1,1 @@
+i also plan on adding more tests cause i hate doing refactorings without having a safety net      

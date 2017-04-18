@@ -1,0 +1,1 @@
+I am running into the same problem as Alexandrino and I have to say that it is very annoying during development as all my jars are coming from the Maven Repository directory (in the Documents and Settings directory) and I'm unable to start any of my projects this way.      

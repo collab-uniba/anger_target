@@ -1,0 +1,1 @@
+I had a terrible time figuring out the correct patterns to exclude these files        

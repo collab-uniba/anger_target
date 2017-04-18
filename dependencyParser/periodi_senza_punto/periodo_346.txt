@@ -1,0 +1,1 @@
+Its annoying that java doesn't have a Null object as such - perhaps when we detect a null  we can wrapp it with a NullField or something?     

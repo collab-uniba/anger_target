@@ -1,0 +1,1 @@
+hmm but that is horrible if a colon is encoded because then the default wicket url (the redirect url) will be completely blown up.      

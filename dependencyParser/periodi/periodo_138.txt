@@ -1,0 +1,1 @@
+I'd hate to see it slowed down in the name of type-safety (esp in code that Solr users don't have to interface with).      

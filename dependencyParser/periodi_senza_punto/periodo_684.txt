@@ -1,0 +1,1 @@
+This is really annoying as I've learned to use the custombeans a lot and now I can't edit any form (I need to move the form to another temporary project in order to edit it)        

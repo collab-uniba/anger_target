@@ -1,0 +1,1 @@
+just to clarify you made the dtpe handle exceptions the same way as cassandradaemon by updating it to use nbhs instead of csls did you just tell me to go fuck myself      

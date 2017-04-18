@@ -1,0 +1,1 @@
+If everything that's written has to fit your arbitrary 'feel good' rule  I'd hate to see how much code is going to actually make it into production.     

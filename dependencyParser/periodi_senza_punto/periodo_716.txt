@@ -1,0 +1,1 @@
+Hence  the callback cannot be triggered unless somebody puts maliciously stupid code into derived class constructors       

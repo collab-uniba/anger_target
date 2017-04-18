@@ -1,0 +1,1 @@
+ checking an environment variable to decide whether to wrap the callback in a ruby thread is ugly      

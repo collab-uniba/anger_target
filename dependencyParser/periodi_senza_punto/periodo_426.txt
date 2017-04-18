@@ -1,0 +1,1 @@
+This is an annoying issue - meaning we have to manually specify how to convert each set of <s:select> list data        

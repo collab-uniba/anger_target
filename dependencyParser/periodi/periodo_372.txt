@@ -1,0 +1,1 @@
+It's annoying that if  you have one of the test-reports opened with eg vim  'ant test' will faill with: prepare:    [delete] Deleting directory D:srcwss4j_wss108trunkbuildtest-reports BUILD FAILED D:srcwss4j_wss108trunkbuild.xml:257: Unable to delete file D:srcwss4j_wss1 08trunkbuildtest-reports.TEST-wssec.PackageTests.xml.swp     

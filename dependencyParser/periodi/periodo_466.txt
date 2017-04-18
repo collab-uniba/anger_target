@@ -1,0 +1,1 @@
+While this is annoying and could potentially be an issue (which is why I suggest we block the 'session' parameter in the next release)  it does not allow any method execution or server-side state change  and therefore  I don't consider it a security hole.   

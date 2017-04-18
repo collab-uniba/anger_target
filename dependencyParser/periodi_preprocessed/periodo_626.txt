@@ -1,0 +1,1 @@
+Whats annoying is that the main complaint is that the artifact cant be found  even though the POM contains the repository reference repositories repository idmavenplaypluginid nameMaven Play Pluginname url httpmavenplayplugingooglecodecomsvnmavenreporeleases url repository repositories      

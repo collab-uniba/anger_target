@@ -1,0 +1,1 @@
+Ive been very stupid not thinking about destructors         

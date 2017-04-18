@@ -1,0 +1,1 @@
+In Solr  we should also add commonsio to this classpath  as lots of tests and core classes use the horrible IOUtils methods to converty binary files to strings or copy InputStreams to Strings    

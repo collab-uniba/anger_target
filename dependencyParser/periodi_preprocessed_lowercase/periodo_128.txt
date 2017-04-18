@@ -1,0 +1,1 @@
+sun ri sucks  why the hell is savestate and restorestate not called with with javaxfacesstate_saving_method = server     

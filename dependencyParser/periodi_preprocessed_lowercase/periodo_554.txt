@@ -1,0 +1,1 @@
+i hate it when i have to define properties in my homebuildproperties without a proper namespace      

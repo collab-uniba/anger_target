@@ -1,0 +1,1 @@
+the problem here  is that dict are mutable as well  they are unhashable  d1 = dicta=1  setd1 traceback most recent call last   file stdin  line 1  in module typeerror dict objects are unhashable so  the only workaround is to use a tuple as theyre immutable holding two integers to represent uuids  but its kinda ugly

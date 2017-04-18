@@ -1,0 +1,1 @@
+I agree that modifying MemoryIndex was horrible and I have removed that dependency just did it as a quickfix      

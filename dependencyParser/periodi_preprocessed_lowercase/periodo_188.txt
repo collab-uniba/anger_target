@@ -1,0 +1,1 @@
+stupid me i looked at persistentbagaddint object instead of persistentbagaddobject     

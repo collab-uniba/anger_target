@@ -1,0 +1,1 @@
+<tr class='row-even'></tbody></table> This is really annoying because I use a lot of Javascript inside the datatables and now I get script errors and my pages are not submitable.      

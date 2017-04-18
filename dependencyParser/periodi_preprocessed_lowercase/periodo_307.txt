@@ -1,0 +1,1 @@
+consider the following example  which is really ugly in my opinion if implemented on bean level consider @max would be a binary constraint  allowing to reference another property that provides the maximum value    

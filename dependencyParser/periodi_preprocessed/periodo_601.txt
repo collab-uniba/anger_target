@@ -1,0 +1,1 @@
+Having a buffer per ContentData dates way back before Apache Sling and has probably cannot remember any more  sorry done for some stupid reason in the preHttpServletWrapper days     

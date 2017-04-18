@@ -1,0 +1,1 @@
+the inner processing loop of hs is not very robust and dies a horrible death in the event of any form of exception such as enfe      

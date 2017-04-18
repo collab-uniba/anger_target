@@ -1,0 +1,1 @@
+Workaround thats approachable     @Inject     @Path $tapestryscriptaculousprototypejs      private Asset _prototypeJs  boolean beginRender MarkupWriter writer  throws Exception      tDocument d = writergetDocument     tElement head = dfindhtmlhead     t      theadelement script  src  _prototypeJstoClientURL  But that somehow is ugly    

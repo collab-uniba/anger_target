@@ -1,0 +1,1 @@
+Hmm  looks like I made a dumb error  there is no close() call on the query executor in my test code which causes it to be left open until such time as it gets GCd on the client.    

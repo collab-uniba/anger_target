@@ -1,0 +1,1 @@
+ authorizerequest  launchcontextgetuserequalstokenidgetapplicationsubmitter  this is now a worthless check      

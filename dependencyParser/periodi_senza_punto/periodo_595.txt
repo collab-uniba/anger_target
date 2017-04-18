@@ -1,0 +1,1 @@
+So unless we wanted to ship the plugin with extra entries in its manifest  this would require the user editing the manifest file which is pretty ugly       

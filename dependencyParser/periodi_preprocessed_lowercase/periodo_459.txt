@@ -1,0 +1,1 @@
+one could have different transform rules for some types of element insertions  but thats very ugly and  essentially introducing a separate operation type anyway     

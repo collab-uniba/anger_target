@@ -1,0 +1,1 @@
+If you've got data coming in that's a gigantic decimal  and you're allowing that through  and then you're also trying to turn decimals into strings...maybe you're getting what you asked for.    

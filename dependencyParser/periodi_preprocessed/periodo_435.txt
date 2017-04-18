@@ -1,0 +1,1 @@
+sradio theme=simple name=selectedOption list=#1 generates input name=selectedOption id=selectedOption1 checked=checked value=1 type=radiolabel for=selectedOption1label it still writes that empty label tag  which is annoying     

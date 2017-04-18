@@ -1,0 +1,1 @@
+I had used a stupid custom Partitioner  simply switching to HashPartitioner did the trick.     

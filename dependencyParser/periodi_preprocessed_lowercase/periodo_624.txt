@@ -1,0 +1,1 @@
+whats annoying is that i had to override pagelink  actionlink  eventlink  and form to take a map of query parameters to add to the url   

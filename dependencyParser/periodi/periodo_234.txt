@@ -1,0 +1,1 @@
+AbstractService  - The inner* method-names don't look good when using the service stuff.      

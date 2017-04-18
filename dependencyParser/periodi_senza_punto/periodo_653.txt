@@ -1,0 +1,1 @@
+Of course  urls for static resources (in normal servlet apps) that contain the jsessionid param  are 100'% valid but (if you ask me) really ugly       
