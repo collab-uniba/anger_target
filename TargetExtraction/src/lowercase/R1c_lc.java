@@ -6,7 +6,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * Implementa R1.C - Implementa le casisistiche in cui il target è l'oggetto (o il soggetto) diretto del verbo che esprime anger
+ * Implementa R3 - Implementa le casisistiche in cui il target è l'oggetto (o il soggetto) diretto del verbo che esprime anger
  * 
  * console ridirezionata nel file r1c.csv
  * 

@@ -26,7 +26,7 @@ import edu.stanford.nlp.trees.Tree;
 import edu.stanford.nlp.trees.TreebankLanguagePack;
 
 /**
- * Implementa 
+ * Implementa R5
  * 
  * console ridirezionata nel file r1e.csv
  * 

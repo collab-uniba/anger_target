@@ -26,7 +26,7 @@ import edu.stanford.nlp.trees.Tree;
 import edu.stanford.nlp.trees.TreebankLanguagePack;
 
 /**
- * Implementa R1.1 - The phone has a good "screen"
+ * Implementa R1 - The phone has a good "screen"
  * 
  * console ridirezionata nel file r1a.csv
  * 

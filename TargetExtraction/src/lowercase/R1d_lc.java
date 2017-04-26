@@ -27,7 +27,7 @@ import edu.stanford.nlp.trees.Tree;
 import edu.stanford.nlp.trees.TreebankLanguagePack;
 
 /**
- * Implementa R1.4 - Predicati nominali con copula 
+ * Implementa R4 - Predicati nominali con copula 
  * 
  * console ridirezionata nel file r1d.csv
  * 

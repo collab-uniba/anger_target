@@ -27,7 +27,7 @@ import edu.stanford.nlp.trees.Tree;
 import edu.stanford.nlp.trees.TreebankLanguagePack;
 
 /**
- * Implementa R1.2 - "Ipod" is the best mp3 player
+ * Implementa R2 - "Ipod" is the best mp3 player
  * 
  * console ridirezionata nel file r1b.csv
  * 
