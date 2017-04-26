@@ -1,0 +1,455 @@
+{
+  "document_tone": {
+    "tone_categories": [
+      {
+        "category_id": "emotion_tone",
+        "category_name": "Emotion Tone",
+        "tones": [
+          {
+            "tone_id": "anger",
+            "tone_name": "Anger",
+            "score": 0.280832
+          },
+          {
+            "tone_id": "disgust",
+            "tone_name": "Disgust",
+            "score": 0.091213
+          },
+          {
+            "tone_id": "fear",
+            "tone_name": "Fear",
+            "score": 0.349176
+          },
+          {
+            "tone_id": "joy",
+            "tone_name": "Joy",
+            "score": 0.015883
+          },
+          {
+            "tone_id": "sadness",
+            "tone_name": "Sadness",
+            "score": 0.376068
+          }
+        ]
+      },
+      {
+        "category_id": "language_tone",
+        "category_name": "Language Tone",
+        "tones": [
+          {
+            "tone_id": "analytical",
+            "tone_name": "Analytical",
+            "score": 0.41663
+          },
+          {
+            "tone_id": "confident",
+            "tone_name": "Confident",
+            "score": 0.0
+          },
+          {
+            "tone_id": "tentative",
+            "tone_name": "Tentative",
+            "score": 0.966403
+          }
+        ]
+      },
+      {
+        "category_id": "social_tone",
+        "category_name": "Social Tone",
+        "tones": [
+          {
+            "tone_id": "openness_big5",
+            "tone_name": "Openness",
+            "score": 0.213788
+          },
+          {
+            "tone_id": "conscientiousness_big5",
+            "tone_name": "Conscientiousness",
+            "score": 0.032473
+          },
+          {
+            "tone_id": "extraversion_big5",
+            "tone_name": "Extraversion",
+            "score": 0.326113
+          },
+          {
+            "tone_id": "agreeableness_big5",
+            "tone_name": "Agreeableness",
+            "score": 0.168007
+          },
+          {
+            "tone_id": "emotional_range_big5",
+            "tone_name": "Emotional Range",
+            "score": 0.319598
+          }
+        ]
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "input_from": 0,
+      "input_to": 28,
+      "text": "What are you trying to sort?",
+      "tone_categories": [
+        {
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone",
+          "tones": [
+            {
+              "tone_id": "anger",
+              "tone_name": "Anger",
+              "score": 0.538893
+            },
+            {
+              "tone_id": "disgust",
+              "tone_name": "Disgust",
+              "score": 0.083318
+            },
+            {
+              "tone_id": "fear",
+              "tone_name": "Fear",
+              "score": 0.144145
+            },
+            {
+              "tone_id": "joy",
+              "tone_name": "Joy",
+              "score": 0.133686
+            },
+            {
+              "tone_id": "sadness",
+              "tone_name": "Sadness",
+              "score": 0.169457
+            }
+          ]
+        },
+        {
+          "category_id": "language_tone",
+          "category_name": "Language Tone",
+          "tones": [
+            {
+              "tone_id": "analytical",
+              "tone_name": "Analytical",
+              "score": 0.0
+            },
+            {
+              "tone_id": "confident",
+              "tone_name": "Confident",
+              "score": 0.0
+            },
+            {
+              "tone_id": "tentative",
+              "tone_name": "Tentative",
+              "score": 0.984352
+            }
+          ]
+        },
+        {
+          "category_id": "social_tone",
+          "category_name": "Social Tone",
+          "tones": [
+            {
+              "tone_id": "openness_big5",
+              "tone_name": "Openness",
+              "score": 0.192199
+            },
+            {
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness",
+              "score": 0.275985
+            },
+            {
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion",
+              "score": 0.601151
+            },
+            {
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness",
+              "score": 0.696534
+            },
+            {
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range",
+              "score": 0.099124
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "input_from": 29,
+      "input_to": 149,
+      "text": "Is there any reason not to use: I\u0027m sure this uses QuickSort and you don\u0027t have to worry about making any coding errors.",
+      "tone_categories": [
+        {
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone",
+          "tones": [
+            {
+              "tone_id": "anger",
+              "tone_name": "Anger",
+              "score": 0.151285
+            },
+            {
+              "tone_id": "disgust",
+              "tone_name": "Disgust",
+              "score": 0.085149
+            },
+            {
+              "tone_id": "fear",
+              "tone_name": "Fear",
+              "score": 0.373384
+            },
+            {
+              "tone_id": "joy",
+              "tone_name": "Joy",
+              "score": 0.031761
+            },
+            {
+              "tone_id": "sadness",
+              "tone_name": "Sadness",
+              "score": 0.435568
+            }
+          ]
+        },
+        {
+          "category_id": "language_tone",
+          "category_name": "Language Tone",
+          "tones": [
+            {
+              "tone_id": "analytical",
+              "tone_name": "Analytical",
+              "score": 0.653099
+            },
+            {
+              "tone_id": "confident",
+              "tone_name": "Confident",
+              "score": 0.0
+            },
+            {
+              "tone_id": "tentative",
+              "tone_name": "Tentative",
+              "score": 0.301547
+            }
+          ]
+        },
+        {
+          "category_id": "social_tone",
+          "category_name": "Social Tone",
+          "tones": [
+            {
+              "tone_id": "openness_big5",
+              "tone_name": "Openness",
+              "score": 0.459663
+            },
+            {
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness",
+              "score": 0.038094
+            },
+            {
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion",
+              "score": 0.286978
+            },
+            {
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness",
+              "score": 0.125941
+            },
+            {
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range",
+              "score": 0.381892
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "input_from": 150,
+      "input_to": 215,
+      "text": "You can implement IComparable to change what you want to sort on.",
+      "tone_categories": [
+        {
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone",
+          "tones": [
+            {
+              "tone_id": "anger",
+              "tone_name": "Anger",
+              "score": 0.168403
+            },
+            {
+              "tone_id": "disgust",
+              "tone_name": "Disgust",
+              "score": 0.064321
+            },
+            {
+              "tone_id": "fear",
+              "tone_name": "Fear",
+              "score": 0.12339
+            },
+            {
+              "tone_id": "joy",
+              "tone_name": "Joy",
+              "score": 0.369467
+            },
+            {
+              "tone_id": "sadness",
+              "tone_name": "Sadness",
+              "score": 0.322896
+            }
+          ]
+        },
+        {
+          "category_id": "language_tone",
+          "category_name": "Language Tone",
+          "tones": [
+            {
+              "tone_id": "analytical",
+              "tone_name": "Analytical",
+              "score": 0.054654
+            },
+            {
+              "tone_id": "confident",
+              "tone_name": "Confident",
+              "score": 0.0
+            },
+            {
+              "tone_id": "tentative",
+              "tone_name": "Tentative",
+              "score": 0.75152
+            }
+          ]
+        },
+        {
+          "category_id": "social_tone",
+          "category_name": "Social Tone",
+          "tones": [
+            {
+              "tone_id": "openness_big5",
+              "tone_name": "Openness",
+              "score": 0.066465
+            },
+            {
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness",
+              "score": 0.529912
+            },
+            {
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion",
+              "score": 0.328851
+            },
+            {
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness",
+              "score": 0.528684
+            },
+            {
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range",
+              "score": 0.228448
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "input_from": 216,
+      "input_to": 338,
+      "text": "If all your data doesn\u0027t fit in memory... well the you\u0027re off to the races with Merge sort or something along those lines.",
+      "tone_categories": [
+        {
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone",
+          "tones": [
+            {
+              "tone_id": "anger",
+              "tone_name": "Anger",
+              "score": 0.145669
+            },
+            {
+              "tone_id": "disgust",
+              "tone_name": "Disgust",
+              "score": 0.127167
+            },
+            {
+              "tone_id": "fear",
+              "tone_name": "Fear",
+              "score": 0.216978
+            },
+            {
+              "tone_id": "joy",
+              "tone_name": "Joy",
+              "score": 0.169925
+            },
+            {
+              "tone_id": "sadness",
+              "tone_name": "Sadness",
+              "score": 0.428414
+            }
+          ]
+        },
+        {
+          "category_id": "language_tone",
+          "category_name": "Language Tone",
+          "tones": [
+            {
+              "tone_id": "analytical",
+              "tone_name": "Analytical",
+              "score": 0.0
+            },
+            {
+              "tone_id": "confident",
+              "tone_name": "Confident",
+              "score": 0.0
+            },
+            {
+              "tone_id": "tentative",
+              "tone_name": "Tentative",
+              "score": 0.769251
+            }
+          ]
+        },
+        {
+          "category_id": "social_tone",
+          "category_name": "Social Tone",
+          "tones": [
+            {
+              "tone_id": "openness_big5",
+              "tone_name": "Openness",
+              "score": 0.403785
+            },
+            {
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness",
+              "score": 0.055981
+            },
+            {
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion",
+              "score": 0.530545
+            },
+            {
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness",
+              "score": 0.048701
+            },
+            {
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range",
+              "score": 0.64141
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

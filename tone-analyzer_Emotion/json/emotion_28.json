@@ -1,0 +1,637 @@
+{
+  "document_tone": {
+    "tone_categories": [
+      {
+        "category_id": "emotion_tone",
+        "category_name": "Emotion Tone",
+        "tones": [
+          {
+            "tone_id": "anger",
+            "tone_name": "Anger",
+            "score": 0.204216
+          },
+          {
+            "tone_id": "disgust",
+            "tone_name": "Disgust",
+            "score": 0.219007
+          },
+          {
+            "tone_id": "fear",
+            "tone_name": "Fear",
+            "score": 0.220112
+          },
+          {
+            "tone_id": "joy",
+            "tone_name": "Joy",
+            "score": 0.200799
+          },
+          {
+            "tone_id": "sadness",
+            "tone_name": "Sadness",
+            "score": 0.251359
+          }
+        ]
+      },
+      {
+        "category_id": "language_tone",
+        "category_name": "Language Tone",
+        "tones": [
+          {
+            "tone_id": "analytical",
+            "tone_name": "Analytical",
+            "score": 0.953645
+          },
+          {
+            "tone_id": "confident",
+            "tone_name": "Confident",
+            "score": 0.0
+          },
+          {
+            "tone_id": "tentative",
+            "tone_name": "Tentative",
+            "score": 0.940216
+          }
+        ]
+      },
+      {
+        "category_id": "social_tone",
+        "category_name": "Social Tone",
+        "tones": [
+          {
+            "tone_id": "openness_big5",
+            "tone_name": "Openness",
+            "score": 0.758285
+          },
+          {
+            "tone_id": "conscientiousness_big5",
+            "tone_name": "Conscientiousness",
+            "score": 0.080345
+          },
+          {
+            "tone_id": "extraversion_big5",
+            "tone_name": "Extraversion",
+            "score": 0.904914
+          },
+          {
+            "tone_id": "agreeableness_big5",
+            "tone_name": "Agreeableness",
+            "score": 0.772612
+          },
+          {
+            "tone_id": "emotional_range_big5",
+            "tone_name": "Emotional Range",
+            "score": 0.57757
+          }
+        ]
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "input_from": 0,
+      "input_to": 56,
+      "text": "How do you train Neural Network for pattern recognition?",
+      "tone_categories": [
+        {
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone",
+          "tones": [
+            {
+              "tone_id": "anger",
+              "tone_name": "Anger",
+              "score": 0.421247
+            },
+            {
+              "tone_id": "disgust",
+              "tone_name": "Disgust",
+              "score": 0.36691
+            },
+            {
+              "tone_id": "fear",
+              "tone_name": "Fear",
+              "score": 0.131566
+            },
+            {
+              "tone_id": "joy",
+              "tone_name": "Joy",
+              "score": 0.079239
+            },
+            {
+              "tone_id": "sadness",
+              "tone_name": "Sadness",
+              "score": 0.116631
+            }
+          ]
+        },
+        {
+          "category_id": "language_tone",
+          "category_name": "Language Tone",
+          "tones": [
+            {
+              "tone_id": "analytical",
+              "tone_name": "Analytical",
+              "score": 0.564476
+            },
+            {
+              "tone_id": "confident",
+              "tone_name": "Confident",
+              "score": 0.0
+            },
+            {
+              "tone_id": "tentative",
+              "tone_name": "Tentative",
+              "score": 0.0
+            }
+          ]
+        },
+        {
+          "category_id": "social_tone",
+          "category_name": "Social Tone",
+          "tones": [
+            {
+              "tone_id": "openness_big5",
+              "tone_name": "Openness",
+              "score": 0.162999
+            },
+            {
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness",
+              "score": 0.502418
+            },
+            {
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion",
+              "score": 0.914221
+            },
+            {
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness",
+              "score": 0.449666
+            },
+            {
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range",
+              "score": 0.651372
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "input_from": 57,
+      "input_to": 141,
+      "text": "For example a face recognition in a picture how would you define the output neurons?",
+      "tone_categories": [
+        {
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone",
+          "tones": [
+            {
+              "tone_id": "anger",
+              "tone_name": "Anger",
+              "score": 0.119399
+            },
+            {
+              "tone_id": "disgust",
+              "tone_name": "Disgust",
+              "score": 0.439166
+            },
+            {
+              "tone_id": "fear",
+              "tone_name": "Fear",
+              "score": 0.231371
+            },
+            {
+              "tone_id": "joy",
+              "tone_name": "Joy",
+              "score": 0.058411
+            },
+            {
+              "tone_id": "sadness",
+              "tone_name": "Sadness",
+              "score": 0.266767
+            }
+          ]
+        },
+        {
+          "category_id": "language_tone",
+          "category_name": "Language Tone",
+          "tones": [
+            {
+              "tone_id": "analytical",
+              "tone_name": "Analytical",
+              "score": 0.982476
+            },
+            {
+              "tone_id": "confident",
+              "tone_name": "Confident",
+              "score": 0.0
+            },
+            {
+              "tone_id": "tentative",
+              "tone_name": "Tentative",
+              "score": 0.0
+            }
+          ]
+        },
+        {
+          "category_id": "social_tone",
+          "category_name": "Social Tone",
+          "tones": [
+            {
+              "tone_id": "openness_big5",
+              "tone_name": "Openness",
+              "score": 0.544772
+            },
+            {
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness",
+              "score": 0.337758
+            },
+            {
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion",
+              "score": 0.942602
+            },
+            {
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness",
+              "score": 0.597857
+            },
+            {
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range",
+              "score": 0.820184
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "input_from": 142,
+      "input_to": 146,
+      "text": "(eg.",
+      "tone_categories": [
+        {
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone",
+          "tones": [
+            {
+              "tone_id": "anger",
+              "tone_name": "Anger",
+              "score": 0.0
+            },
+            {
+              "tone_id": "disgust",
+              "tone_name": "Disgust",
+              "score": 0.0
+            },
+            {
+              "tone_id": "fear",
+              "tone_name": "Fear",
+              "score": 0.0
+            },
+            {
+              "tone_id": "joy",
+              "tone_name": "Joy",
+              "score": 0.0
+            },
+            {
+              "tone_id": "sadness",
+              "tone_name": "Sadness",
+              "score": 0.0
+            }
+          ]
+        },
+        {
+          "category_id": "language_tone",
+          "category_name": "Language Tone",
+          "tones": [
+            {
+              "tone_id": "analytical",
+              "tone_name": "Analytical",
+              "score": 0.0
+            },
+            {
+              "tone_id": "confident",
+              "tone_name": "Confident",
+              "score": 0.0
+            },
+            {
+              "tone_id": "tentative",
+              "tone_name": "Tentative",
+              "score": 0.0
+            }
+          ]
+        },
+        {
+          "category_id": "social_tone",
+          "category_name": "Social Tone",
+          "tones": [
+            {
+              "tone_id": "openness_big5",
+              "tone_name": "Openness",
+              "score": 0.28892
+            },
+            {
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness",
+              "score": 0.274434
+            },
+            {
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion",
+              "score": 0.543322
+            },
+            {
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness",
+              "score": 0.599483
+            },
+            {
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range",
+              "score": 0.291607
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "input_from": 147,
+      "input_to": 244,
+      "text": "how to detect where is the face exactly, rather than just saying that there is a face in camera).",
+      "tone_categories": [
+        {
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone",
+          "tones": [
+            {
+              "tone_id": "anger",
+              "tone_name": "Anger",
+              "score": 0.326009
+            },
+            {
+              "tone_id": "disgust",
+              "tone_name": "Disgust",
+              "score": 0.150192
+            },
+            {
+              "tone_id": "fear",
+              "tone_name": "Fear",
+              "score": 0.367938
+            },
+            {
+              "tone_id": "joy",
+              "tone_name": "Joy",
+              "score": 0.020885
+            },
+            {
+              "tone_id": "sadness",
+              "tone_name": "Sadness",
+              "score": 0.261292
+            }
+          ]
+        },
+        {
+          "category_id": "language_tone",
+          "category_name": "Language Tone",
+          "tones": [
+            {
+              "tone_id": "analytical",
+              "tone_name": "Analytical",
+              "score": 0.677676
+            },
+            {
+              "tone_id": "confident",
+              "tone_name": "Confident",
+              "score": 0.0
+            },
+            {
+              "tone_id": "tentative",
+              "tone_name": "Tentative",
+              "score": 0.794838
+            }
+          ]
+        },
+        {
+          "category_id": "social_tone",
+          "category_name": "Social Tone",
+          "tones": [
+            {
+              "tone_id": "openness_big5",
+              "tone_name": "Openness",
+              "score": 0.599449
+            },
+            {
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness",
+              "score": 0.041557
+            },
+            {
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion",
+              "score": 0.304055
+            },
+            {
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness",
+              "score": 0.171678
+            },
+            {
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range",
+              "score": 0.591027
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "input_from": 245,
+      "input_to": 314,
+      "text": "Also, how about detecting multiple faces and different size of faces?",
+      "tone_categories": [
+        {
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone",
+          "tones": [
+            {
+              "tone_id": "anger",
+              "tone_name": "Anger",
+              "score": 0.16809
+            },
+            {
+              "tone_id": "disgust",
+              "tone_name": "Disgust",
+              "score": 0.251812
+            },
+            {
+              "tone_id": "fear",
+              "tone_name": "Fear",
+              "score": 0.241771
+            },
+            {
+              "tone_id": "joy",
+              "tone_name": "Joy",
+              "score": 0.07047
+            },
+            {
+              "tone_id": "sadness",
+              "tone_name": "Sadness",
+              "score": 0.382077
+            }
+          ]
+        },
+        {
+          "category_id": "language_tone",
+          "category_name": "Language Tone",
+          "tones": [
+            {
+              "tone_id": "analytical",
+              "tone_name": "Analytical",
+              "score": 0.0
+            },
+            {
+              "tone_id": "confident",
+              "tone_name": "Confident",
+              "score": 0.0
+            },
+            {
+              "tone_id": "tentative",
+              "tone_name": "Tentative",
+              "score": 0.446712
+            }
+          ]
+        },
+        {
+          "category_id": "social_tone",
+          "category_name": "Social Tone",
+          "tones": [
+            {
+              "tone_id": "openness_big5",
+              "tone_name": "Openness",
+              "score": 0.964075
+            },
+            {
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness",
+              "score": 0.200022
+            },
+            {
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion",
+              "score": 0.721546
+            },
+            {
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness",
+              "score": 0.629786
+            },
+            {
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range",
+              "score": 0.112734
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "input_from": 315,
+      "input_to": 381,
+      "text": "If anyone could give me a pointer it would be really great Cheers!",
+      "tone_categories": [
+        {
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone",
+          "tones": [
+            {
+              "tone_id": "anger",
+              "tone_name": "Anger",
+              "score": 0.116001
+            },
+            {
+              "tone_id": "disgust",
+              "tone_name": "Disgust",
+              "score": 0.053322
+            },
+            {
+              "tone_id": "fear",
+              "tone_name": "Fear",
+              "score": 0.104398
+            },
+            {
+              "tone_id": "joy",
+              "tone_name": "Joy",
+              "score": 0.480366
+            },
+            {
+              "tone_id": "sadness",
+              "tone_name": "Sadness",
+              "score": 0.291588
+            }
+          ]
+        },
+        {
+          "category_id": "language_tone",
+          "category_name": "Language Tone",
+          "tones": [
+            {
+              "tone_id": "analytical",
+              "tone_name": "Analytical",
+              "score": 0.821913
+            },
+            {
+              "tone_id": "confident",
+              "tone_name": "Confident",
+              "score": 0.0
+            },
+            {
+              "tone_id": "tentative",
+              "tone_name": "Tentative",
+              "score": 0.933436
+            }
+          ]
+        },
+        {
+          "category_id": "social_tone",
+          "category_name": "Social Tone",
+          "tones": [
+            {
+              "tone_id": "openness_big5",
+              "tone_name": "Openness",
+              "score": 0.677051
+            },
+            {
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness",
+              "score": 0.628568
+            },
+            {
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion",
+              "score": 0.834337
+            },
+            {
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness",
+              "score": 0.996548
+            },
+            {
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range",
+              "score": 0.643925
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

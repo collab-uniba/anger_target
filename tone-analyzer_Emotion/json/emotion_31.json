@@ -1,0 +1,455 @@
+{
+  "document_tone": {
+    "tone_categories": [
+      {
+        "category_id": "emotion_tone",
+        "category_name": "Emotion Tone",
+        "tones": [
+          {
+            "tone_id": "anger",
+            "tone_name": "Anger",
+            "score": 0.09922
+          },
+          {
+            "tone_id": "disgust",
+            "tone_name": "Disgust",
+            "score": 0.017328
+          },
+          {
+            "tone_id": "fear",
+            "tone_name": "Fear",
+            "score": 0.069198
+          },
+          {
+            "tone_id": "joy",
+            "tone_name": "Joy",
+            "score": 0.769782
+          },
+          {
+            "tone_id": "sadness",
+            "tone_name": "Sadness",
+            "score": 0.084304
+          }
+        ]
+      },
+      {
+        "category_id": "language_tone",
+        "category_name": "Language Tone",
+        "tones": [
+          {
+            "tone_id": "analytical",
+            "tone_name": "Analytical",
+            "score": 0.888555
+          },
+          {
+            "tone_id": "confident",
+            "tone_name": "Confident",
+            "score": 0.808712
+          },
+          {
+            "tone_id": "tentative",
+            "tone_name": "Tentative",
+            "score": 0.0
+          }
+        ]
+      },
+      {
+        "category_id": "social_tone",
+        "category_name": "Social Tone",
+        "tones": [
+          {
+            "tone_id": "openness_big5",
+            "tone_name": "Openness",
+            "score": 0.620801
+          },
+          {
+            "tone_id": "conscientiousness_big5",
+            "tone_name": "Conscientiousness",
+            "score": 0.554353
+          },
+          {
+            "tone_id": "extraversion_big5",
+            "tone_name": "Extraversion",
+            "score": 0.415833
+          },
+          {
+            "tone_id": "agreeableness_big5",
+            "tone_name": "Agreeableness",
+            "score": 0.684369
+          },
+          {
+            "tone_id": "emotional_range_big5",
+            "tone_name": "Emotional Range",
+            "score": 0.616832
+          }
+        ]
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "input_from": 0,
+      "input_to": 15,
+      "text": "Well, not free.",
+      "tone_categories": [
+        {
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone",
+          "tones": [
+            {
+              "tone_id": "anger",
+              "tone_name": "Anger",
+              "score": 0.161746
+            },
+            {
+              "tone_id": "disgust",
+              "tone_name": "Disgust",
+              "score": 0.035826
+            },
+            {
+              "tone_id": "fear",
+              "tone_name": "Fear",
+              "score": 0.363495
+            },
+            {
+              "tone_id": "joy",
+              "tone_name": "Joy",
+              "score": 0.166408
+            },
+            {
+              "tone_id": "sadness",
+              "tone_name": "Sadness",
+              "score": 0.340296
+            }
+          ]
+        },
+        {
+          "category_id": "language_tone",
+          "category_name": "Language Tone",
+          "tones": [
+            {
+              "tone_id": "analytical",
+              "tone_name": "Analytical",
+              "score": 0.0
+            },
+            {
+              "tone_id": "confident",
+              "tone_name": "Confident",
+              "score": 0.0
+            },
+            {
+              "tone_id": "tentative",
+              "tone_name": "Tentative",
+              "score": 0.0
+            }
+          ]
+        },
+        {
+          "category_id": "social_tone",
+          "category_name": "Social Tone",
+          "tones": [
+            {
+              "tone_id": "openness_big5",
+              "tone_name": "Openness",
+              "score": 0.382228
+            },
+            {
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness",
+              "score": 0.310694
+            },
+            {
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion",
+              "score": 0.474622
+            },
+            {
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness",
+              "score": 0.619065
+            },
+            {
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range",
+              "score": 0.727061
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "input_from": 16,
+      "input_to": 62,
+      "text": "But we have had very good results with Nevron.",
+      "tone_categories": [
+        {
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone",
+          "tones": [
+            {
+              "tone_id": "anger",
+              "tone_name": "Anger",
+              "score": 0.040105
+            },
+            {
+              "tone_id": "disgust",
+              "tone_name": "Disgust",
+              "score": 0.015342
+            },
+            {
+              "tone_id": "fear",
+              "tone_name": "Fear",
+              "score": 0.063115
+            },
+            {
+              "tone_id": "joy",
+              "tone_name": "Joy",
+              "score": 0.799303
+            },
+            {
+              "tone_id": "sadness",
+              "tone_name": "Sadness",
+              "score": 0.130773
+            }
+          ]
+        },
+        {
+          "category_id": "language_tone",
+          "category_name": "Language Tone",
+          "tones": [
+            {
+              "tone_id": "analytical",
+              "tone_name": "Analytical",
+              "score": 0.724236
+            },
+            {
+              "tone_id": "confident",
+              "tone_name": "Confident",
+              "score": 0.874372
+            },
+            {
+              "tone_id": "tentative",
+              "tone_name": "Tentative",
+              "score": 0.0
+            }
+          ]
+        },
+        {
+          "category_id": "social_tone",
+          "category_name": "Social Tone",
+          "tones": [
+            {
+              "tone_id": "openness_big5",
+              "tone_name": "Openness",
+              "score": 0.359509
+            },
+            {
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness",
+              "score": 0.688243
+            },
+            {
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion",
+              "score": 0.37464
+            },
+            {
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness",
+              "score": 0.877617
+            },
+            {
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range",
+              "score": 0.196446
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "input_from": 63,
+      "input_to": 98,
+      "text": "Their support is excellent as well.",
+      "tone_categories": [
+        {
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone",
+          "tones": [
+            {
+              "tone_id": "anger",
+              "tone_name": "Anger",
+              "score": 0.060473
+            },
+            {
+              "tone_id": "disgust",
+              "tone_name": "Disgust",
+              "score": 0.136969
+            },
+            {
+              "tone_id": "fear",
+              "tone_name": "Fear",
+              "score": 0.085058
+            },
+            {
+              "tone_id": "joy",
+              "tone_name": "Joy",
+              "score": 0.593741
+            },
+            {
+              "tone_id": "sadness",
+              "tone_name": "Sadness",
+              "score": 0.206454
+            }
+          ]
+        },
+        {
+          "category_id": "language_tone",
+          "category_name": "Language Tone",
+          "tones": [
+            {
+              "tone_id": "analytical",
+              "tone_name": "Analytical",
+              "score": 0.944551
+            },
+            {
+              "tone_id": "confident",
+              "tone_name": "Confident",
+              "score": 0.0
+            },
+            {
+              "tone_id": "tentative",
+              "tone_name": "Tentative",
+              "score": 0.0
+            }
+          ]
+        },
+        {
+          "category_id": "social_tone",
+          "category_name": "Social Tone",
+          "tones": [
+            {
+              "tone_id": "openness_big5",
+              "tone_name": "Openness",
+              "score": 0.711556
+            },
+            {
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness",
+              "score": 0.417248
+            },
+            {
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion",
+              "score": 0.74992
+            },
+            {
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness",
+              "score": 0.671738
+            },
+            {
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range",
+              "score": 0.598909
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "input_from": 99,
+      "input_to": 132,
+      "text": "Another good option is TeeCharts.",
+      "tone_categories": [
+        {
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone",
+          "tones": [
+            {
+              "tone_id": "anger",
+              "tone_name": "Anger",
+              "score": 0.130182
+            },
+            {
+              "tone_id": "disgust",
+              "tone_name": "Disgust",
+              "score": 0.01642
+            },
+            {
+              "tone_id": "fear",
+              "tone_name": "Fear",
+              "score": 0.084231
+            },
+            {
+              "tone_id": "joy",
+              "tone_name": "Joy",
+              "score": 0.511774
+            },
+            {
+              "tone_id": "sadness",
+              "tone_name": "Sadness",
+              "score": 0.288211
+            }
+          ]
+        },
+        {
+          "category_id": "language_tone",
+          "category_name": "Language Tone",
+          "tones": [
+            {
+              "tone_id": "analytical",
+              "tone_name": "Analytical",
+              "score": 0.0
+            },
+            {
+              "tone_id": "confident",
+              "tone_name": "Confident",
+              "score": 0.0
+            },
+            {
+              "tone_id": "tentative",
+              "tone_name": "Tentative",
+              "score": 0.822231
+            }
+          ]
+        },
+        {
+          "category_id": "social_tone",
+          "category_name": "Social Tone",
+          "tones": [
+            {
+              "tone_id": "openness_big5",
+              "tone_name": "Openness",
+              "score": 0.552482
+            },
+            {
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness",
+              "score": 0.274327
+            },
+            {
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion",
+              "score": 0.48066
+            },
+            {
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness",
+              "score": 0.323019
+            },
+            {
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range",
+              "score": 0.575106
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

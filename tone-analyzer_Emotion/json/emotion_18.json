@@ -1,0 +1,546 @@
+{
+  "document_tone": {
+    "tone_categories": [
+      {
+        "category_id": "emotion_tone",
+        "category_name": "Emotion Tone",
+        "tones": [
+          {
+            "tone_id": "anger",
+            "tone_name": "Anger",
+            "score": 0.147945
+          },
+          {
+            "tone_id": "disgust",
+            "tone_name": "Disgust",
+            "score": 0.038729
+          },
+          {
+            "tone_id": "fear",
+            "tone_name": "Fear",
+            "score": 0.188232
+          },
+          {
+            "tone_id": "joy",
+            "tone_name": "Joy",
+            "score": 0.017398
+          },
+          {
+            "tone_id": "sadness",
+            "tone_name": "Sadness",
+            "score": 0.680764
+          }
+        ]
+      },
+      {
+        "category_id": "language_tone",
+        "category_name": "Language Tone",
+        "tones": [
+          {
+            "tone_id": "analytical",
+            "tone_name": "Analytical",
+            "score": 0.41999
+          },
+          {
+            "tone_id": "confident",
+            "tone_name": "Confident",
+            "score": 0.0
+          },
+          {
+            "tone_id": "tentative",
+            "tone_name": "Tentative",
+            "score": 0.876143
+          }
+        ]
+      },
+      {
+        "category_id": "social_tone",
+        "category_name": "Social Tone",
+        "tones": [
+          {
+            "tone_id": "openness_big5",
+            "tone_name": "Openness",
+            "score": 0.887678
+          },
+          {
+            "tone_id": "conscientiousness_big5",
+            "tone_name": "Conscientiousness",
+            "score": 0.188682
+          },
+          {
+            "tone_id": "extraversion_big5",
+            "tone_name": "Extraversion",
+            "score": 0.318422
+          },
+          {
+            "tone_id": "agreeableness_big5",
+            "tone_name": "Agreeableness",
+            "score": 0.008896
+          },
+          {
+            "tone_id": "emotional_range_big5",
+            "tone_name": "Emotional Range",
+            "score": 0.701557
+          }
+        ]
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "input_from": 0,
+      "input_to": 130,
+      "text": "I\u0027m looking for experiences with deploying Crystal reports (the basic version, bundled with VS2008) into a production environment.",
+      "tone_categories": [
+        {
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone",
+          "tones": [
+            {
+              "tone_id": "anger",
+              "tone_name": "Anger",
+              "score": 0.057787
+            },
+            {
+              "tone_id": "disgust",
+              "tone_name": "Disgust",
+              "score": 0.117503
+            },
+            {
+              "tone_id": "fear",
+              "tone_name": "Fear",
+              "score": 0.382465
+            },
+            {
+              "tone_id": "joy",
+              "tone_name": "Joy",
+              "score": 0.131788
+            },
+            {
+              "tone_id": "sadness",
+              "tone_name": "Sadness",
+              "score": 0.395958
+            }
+          ]
+        },
+        {
+          "category_id": "language_tone",
+          "category_name": "Language Tone",
+          "tones": [
+            {
+              "tone_id": "analytical",
+              "tone_name": "Analytical",
+              "score": 0.459587
+            },
+            {
+              "tone_id": "confident",
+              "tone_name": "Confident",
+              "score": 0.0
+            },
+            {
+              "tone_id": "tentative",
+              "tone_name": "Tentative",
+              "score": 0.0
+            }
+          ]
+        },
+        {
+          "category_id": "social_tone",
+          "category_name": "Social Tone",
+          "tones": [
+            {
+              "tone_id": "openness_big5",
+              "tone_name": "Openness",
+              "score": 0.900414
+            },
+            {
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness",
+              "score": 0.099125
+            },
+            {
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion",
+              "score": 0.716278
+            },
+            {
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness",
+              "score": 0.170781
+            },
+            {
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range",
+              "score": 0.199063
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "input_from": 131,
+      "input_to": 158,
+      "text": "Are there any restrictions?",
+      "tone_categories": [
+        {
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone",
+          "tones": [
+            {
+              "tone_id": "anger",
+              "tone_name": "Anger",
+              "score": 0.076042
+            },
+            {
+              "tone_id": "disgust",
+              "tone_name": "Disgust",
+              "score": 0.116444
+            },
+            {
+              "tone_id": "fear",
+              "tone_name": "Fear",
+              "score": 0.264028
+            },
+            {
+              "tone_id": "joy",
+              "tone_name": "Joy",
+              "score": 0.060786
+            },
+            {
+              "tone_id": "sadness",
+              "tone_name": "Sadness",
+              "score": 0.557851
+            }
+          ]
+        },
+        {
+          "category_id": "language_tone",
+          "category_name": "Language Tone",
+          "tones": [
+            {
+              "tone_id": "analytical",
+              "tone_name": "Analytical",
+              "score": 0.0
+            },
+            {
+              "tone_id": "confident",
+              "tone_name": "Confident",
+              "score": 0.0
+            },
+            {
+              "tone_id": "tentative",
+              "tone_name": "Tentative",
+              "score": 0.984352
+            }
+          ]
+        },
+        {
+          "category_id": "social_tone",
+          "category_name": "Social Tone",
+          "tones": [
+            {
+              "tone_id": "openness_big5",
+              "tone_name": "Openness",
+              "score": 0.594072
+            },
+            {
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness",
+              "score": 0.276987
+            },
+            {
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion",
+              "score": 0.573383
+            },
+            {
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness",
+              "score": 0.568406
+            },
+            {
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range",
+              "score": 0.384533
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "input_from": 159,
+      "input_to": 204,
+      "text": "Does it limit the number of concurrent users?",
+      "tone_categories": [
+        {
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone",
+          "tones": [
+            {
+              "tone_id": "anger",
+              "tone_name": "Anger",
+              "score": 0.221784
+            },
+            {
+              "tone_id": "disgust",
+              "tone_name": "Disgust",
+              "score": 0.160303
+            },
+            {
+              "tone_id": "fear",
+              "tone_name": "Fear",
+              "score": 0.091992
+            },
+            {
+              "tone_id": "joy",
+              "tone_name": "Joy",
+              "score": 0.080395
+            },
+            {
+              "tone_id": "sadness",
+              "tone_name": "Sadness",
+              "score": 0.583595
+            }
+          ]
+        },
+        {
+          "category_id": "language_tone",
+          "category_name": "Language Tone",
+          "tones": [
+            {
+              "tone_id": "analytical",
+              "tone_name": "Analytical",
+              "score": 0.0
+            },
+            {
+              "tone_id": "confident",
+              "tone_name": "Confident",
+              "score": 0.0
+            },
+            {
+              "tone_id": "tentative",
+              "tone_name": "Tentative",
+              "score": 0.0
+            }
+          ]
+        },
+        {
+          "category_id": "social_tone",
+          "category_name": "Social Tone",
+          "tones": [
+            {
+              "tone_id": "openness_big5",
+              "tone_name": "Openness",
+              "score": 0.473871
+            },
+            {
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness",
+              "score": 0.385743
+            },
+            {
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion",
+              "score": 0.199121
+            },
+            {
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness",
+              "score": 0.083279
+            },
+            {
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range",
+              "score": 0.900148
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "input_from": 205,
+      "input_to": 318,
+      "text": "Other than downloading and installing the CRRedist2008_x86.msi on the production server, anything to worry about?",
+      "tone_categories": [
+        {
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone",
+          "tones": [
+            {
+              "tone_id": "anger",
+              "tone_name": "Anger",
+              "score": 0.048029
+            },
+            {
+              "tone_id": "disgust",
+              "tone_name": "Disgust",
+              "score": 0.05078
+            },
+            {
+              "tone_id": "fear",
+              "tone_name": "Fear",
+              "score": 0.268279
+            },
+            {
+              "tone_id": "joy",
+              "tone_name": "Joy",
+              "score": 0.03399
+            },
+            {
+              "tone_id": "sadness",
+              "tone_name": "Sadness",
+              "score": 0.680331
+            }
+          ]
+        },
+        {
+          "category_id": "language_tone",
+          "category_name": "Language Tone",
+          "tones": [
+            {
+              "tone_id": "analytical",
+              "tone_name": "Analytical",
+              "score": 0.506763
+            },
+            {
+              "tone_id": "confident",
+              "tone_name": "Confident",
+              "score": 0.0
+            },
+            {
+              "tone_id": "tentative",
+              "tone_name": "Tentative",
+              "score": 0.798791
+            }
+          ]
+        },
+        {
+          "category_id": "social_tone",
+          "category_name": "Social Tone",
+          "tones": [
+            {
+              "tone_id": "openness_big5",
+              "tone_name": "Openness",
+              "score": 0.290197
+            },
+            {
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness",
+              "score": 0.185571
+            },
+            {
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion",
+              "score": 0.03763
+            },
+            {
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness",
+              "score": 6.72E-4
+            },
+            {
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range",
+              "score": 0.79844
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "input_from": 319,
+      "input_to": 514,
+      "text": "(And judging from the comments here and other places, yes it would be better to find another solution, but unless there\u0027s something free that works with VS2008/IIS6, we\u0027re stuck with it for now).",
+      "tone_categories": [
+        {
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone",
+          "tones": [
+            {
+              "tone_id": "anger",
+              "tone_name": "Anger",
+              "score": 0.180245
+            },
+            {
+              "tone_id": "disgust",
+              "tone_name": "Disgust",
+              "score": 0.039625
+            },
+            {
+              "tone_id": "fear",
+              "tone_name": "Fear",
+              "score": 0.065864
+            },
+            {
+              "tone_id": "joy",
+              "tone_name": "Joy",
+              "score": 0.179279
+            },
+            {
+              "tone_id": "sadness",
+              "tone_name": "Sadness",
+              "score": 0.599667
+            }
+          ]
+        },
+        {
+          "category_id": "language_tone",
+          "category_name": "Language Tone",
+          "tones": [
+            {
+              "tone_id": "analytical",
+              "tone_name": "Analytical",
+              "score": 0.151456
+            },
+            {
+              "tone_id": "confident",
+              "tone_name": "Confident",
+              "score": 0.0
+            },
+            {
+              "tone_id": "tentative",
+              "tone_name": "Tentative",
+              "score": 0.236367
+            }
+          ]
+        },
+        {
+          "category_id": "social_tone",
+          "category_name": "Social Tone",
+          "tones": [
+            {
+              "tone_id": "openness_big5",
+              "tone_name": "Openness",
+              "score": 0.934421
+            },
+            {
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness",
+              "score": 0.969054
+            },
+            {
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion",
+              "score": 0.692493
+            },
+            {
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness",
+              "score": 0.947856
+            },
+            {
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range",
+              "score": 0.781415
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
