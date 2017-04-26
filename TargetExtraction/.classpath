@@ -2,8 +2,8 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
-	<classpathentry kind="lib" path="C:/Users/Antonio/Desktop/stanford-english-corenlp-2016-10-31-models.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Antonio/Desktop/stanford-parser-full-2016-10-31/stanford-parser.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Antonio/Desktop/eclipse/commons-csv-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Antonio/Desktop/stanford/stanford-parser-full-2016-10-31/stanford-parser.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Antonio/Desktop/stanford/stanford-english-corenlp-2016-10-31-models.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

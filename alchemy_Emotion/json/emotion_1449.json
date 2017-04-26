@@ -1,0 +1,11 @@
+{
+  "docEmotions": {
+    "anger": 0.421124,
+    "disgust": 0.201545,
+    "fear": 0.081431,
+    "joy": 0.212692,
+    "sadness": 0.187306
+  },
+  "language": "english",
+  "totalTransactions": 1
+}
