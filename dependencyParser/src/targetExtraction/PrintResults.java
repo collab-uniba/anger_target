@@ -44,10 +44,6 @@ public class PrintResults {
 		        prevId = Integer.parseInt(id);
 		    }
 		}
-		
-		System.out.println("721;no target");
-		System.out.println("722;no target");
-		System.out.println("723;no target");
 	}
 }
 
